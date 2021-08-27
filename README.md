@@ -41,7 +41,7 @@
 ## Support
 Contact Me On [Telegram](https://t.me/subinps_bot)
 
-[Update Channel](https://t.me/Mo_Tech_YT)
+[🔰Channel🔰]https://t.me/MovieRockz2
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
