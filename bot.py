@@ -22,7 +22,7 @@ class Bot(Client):
             workers=50,
             plugins={"root": "plugins"},
             sleep_threshold=5,
-        )
+        )🔰Main Channel🔰@MovieRockz2
 
     async def start(self):
         await super().start()
