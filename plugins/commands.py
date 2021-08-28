@@ -67,7 +67,7 @@ async def start(bot, cmd):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🖥️ How To Own 🖥️', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('🔰Main Channel🔰', url=f'{@MovieRockz2}')
                     ],
                     [
                         InlineKeyboardButton('🔍 Search again 🔎', switch_inline_query_current_chat='')
@@ -195,7 +195,7 @@ async def delete(bot, message):
 async def bot_info(bot, message):
     buttons = [
         [
-            InlineKeyboardButton('Update Channel', url='https://t.me/Mo_Tech_YT'),
+            InlineKeyboardButton('Update Channel',https://t.me/MovieRockz2
             InlineKeyboardButton('Video', url=f'{TUTORIAL}')
         ]
         ]
