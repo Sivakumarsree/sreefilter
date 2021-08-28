@@ -195,8 +195,8 @@ async def delete(bot, message):
 async def bot_info(bot, message):
     buttons = [
         [
-            InlineKeyboardButton('Update Channel',https://t.me/MovieRockz2
+            InlineKeyboardButton('🔰Main Channel🔰',https://t.me/MovieRockz2
             InlineKeyboardButton('Video', url=f'{TUTORIAL}')
         ]
         ]
-    await message.reply(text=f"<b>Developer :https://t.me/MovieRockz2:
+    await message.reply(text=f"<b>🔰Main Channel🔰:https://t.me/MovieRockz2:
